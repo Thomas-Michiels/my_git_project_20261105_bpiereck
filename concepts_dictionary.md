@@ -33,3 +33,5 @@ Clone repo on local computer (NEVER in existing git project folder!)
 Make changes to file, commit and push.
 
 Add a entire new text.
+
+new conflict for you.
