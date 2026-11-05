@@ -1,5 +1,6 @@
 # Concepts dictionary
 
+OOPS
 1. Difference between Git and GitHub
 
 - Git: it provides the version control of our content. Can be used locally or remotely (associated with other platforms such as GitHub). 
@@ -7,6 +8,8 @@
 - GitHub: Platform that integrates git software, stores back up and allows to do version control with git. 
 
 # Configuration
+
+Make a change here
 
 **Check if git has your information in the config file**
 
@@ -23,6 +26,7 @@
 1. Develpment area:
 
 2. Staging area:
+OOPS
 
 3. Local repository:
 
@@ -34,3 +38,5 @@ Make changes to file, commit and push.
 
 Remove all conflicts and fix
 
+Will add a new conflict for practice
+OH NOO
