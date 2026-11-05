@@ -25,3 +25,9 @@
 2. Staging area:
 
 3. Local repository:
+
+# Collaborations
+
+Add collaborator on GitHub. 
+Clone repo on local computer (NEVER in existing git project folder!)
+Make changes to file, commit and push.
