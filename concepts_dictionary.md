@@ -1,8 +1,5 @@
 # Concepts dictionary
 
-new line
-new line
-new line
 
 1. Difference between Git and GitHub
 
@@ -38,5 +35,6 @@ Add collaborator on GitHub.
 Clone repo on local computer (NEVER in existing git project folder!)
 Make changes to file, commit and push.
 
-
 New text for you to solve
+=======
+Remove all conflicts and fix
