@@ -31,3 +31,5 @@
 Add collaborator on GitHub. 
 Clone repo on local computer (NEVER in existing git project folder!)
 Make changes to file, commit and push.
+
+This is the line to stay! 
