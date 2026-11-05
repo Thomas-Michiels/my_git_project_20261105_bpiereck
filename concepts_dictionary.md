@@ -17,3 +17,11 @@
 `git config --global user.name “Your Name”`
 
 `git config --global user.email “your_email@domain.com”`
+
+# Conceptual areas
+
+1. Develpment area:
+
+2. Staging area:
+
+3. Local repository:
