@@ -20,7 +20,7 @@
 
 # Conceptual areas
 
-1. Develpment area: folder where I dev. my project
+1. Develpment area:
 
 2. Staging area:
 
