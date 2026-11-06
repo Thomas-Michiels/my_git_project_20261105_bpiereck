@@ -36,3 +36,5 @@ New text for you to solve
 Remove all conflicts and fix
 
 commit 3
+
+commit 4
