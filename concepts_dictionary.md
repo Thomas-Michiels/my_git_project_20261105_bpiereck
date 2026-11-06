@@ -3,7 +3,7 @@
 1. Difference between Git and GitHub
 
 - Git: it provides the version control of our content. Can be used locally or remotely (associated with other platforms such as GitHub). 
-
+adding text
 - GitHub: Platform that integrates git software, stores back up and allows to do version control with git. 
 
 # Configuration
