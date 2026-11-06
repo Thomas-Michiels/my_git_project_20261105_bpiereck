@@ -34,3 +34,5 @@ Make changes to file, commit and push.
 New text for you to solve
 =======
 Remove all conflicts and fix
+
+commit 3
